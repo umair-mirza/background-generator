@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	font-family: Montserrat;
+	letter-spacing: 7px;
+	font-size: 3em;
+	opacity: 0.5;
+}
+
+body {
+	background-image: linear-gradient(to right, red, yellow);
+}
+
+.colorpicker {
+	display: flex;
+	justify-content: center;
+}
+
+#color1 {
+	margin-right: 5px;
+}
+
+#color2 {
+	margin-left: 5px;
+}
+
+.demo {
+	color: green;
+}
